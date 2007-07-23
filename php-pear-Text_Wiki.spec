@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - parsing and rendering rules for Wiki markup in structured text
 Name:		php-pear-%{_pearname}
-Version:	1.1.0
+Version:	1.2.0
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP

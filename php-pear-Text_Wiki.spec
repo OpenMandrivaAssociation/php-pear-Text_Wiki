@@ -8,7 +8,7 @@ Release:	5
 Summary:	Parsing and rendering rules for Wiki markup in structured text
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Text_Wiki/
+URL:		https://pear.php.net/package/Text_Wiki/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
